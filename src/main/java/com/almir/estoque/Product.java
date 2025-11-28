@@ -34,7 +34,6 @@ public class Product {
         this.price = price;
     }
 
-    // ==== getters e setters ====
 
     public Long getId() {
         return id;
