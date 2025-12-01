@@ -94,7 +94,8 @@ Sinta-se à vontade para utilizar, estudar, modificar e compartilhar.
 
 📧 Email: almirrenancaetano@gmail.com
 
-💼 GitHub: https:github.com/almirennancaetano
+🧰 GitHub: [github.com/almirrenancaetano](https://github.com/almirrenancaetano)
+
 
 
 
